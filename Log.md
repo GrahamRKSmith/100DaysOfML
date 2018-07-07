@@ -6,7 +6,9 @@
 ## Day 1 : July 7, 2018
 **Today's Progress**: Santander Kaggle Competition: 
 
-Forked and ran https://www.kaggle.com/alexpengxiao/preprocessing-model-averaging-by-xgb-lgb-1-39. The notebook from the highest level does the following: 
+Forked and ran https://www.kaggle.com/alexpengxiao/preprocessing-model-averaging-by-xgb-lgb-1-39. It put me at rank 555 with a score of 1.4
+
+The notebook from the highest level does the following: 
 1) data preprocessing, 
 2) feature transform, and 
 3) xgboost (Extreme Gradient Boosting is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable that provides a parallel tree boosting, combining many weak learners) and lightgbm (gradient boosting framework that uses tree based learning algorithms; faster training speed and higher efficiency than XGBoost) models. 
