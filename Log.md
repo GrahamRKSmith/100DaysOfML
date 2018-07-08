@@ -20,3 +20,6 @@ In more detail, we do the following:
 4) add low-dimensional representations as features,
 5) define cross-validation methods and models; xgboost and lightgbm are used as base models; hyperparameters are tuned by grid search,
 6) average the two base models and submit predictions
+
+## Day 2 : July 8, 2018
+**Today's Progress**: Santander Kaggle Competition: coded step 1: load train/test data, drop duplicate columns, round features
