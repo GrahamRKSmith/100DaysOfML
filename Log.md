@@ -27,3 +27,4 @@ In more detail, we do the following:
 ## Day 3 : July 9, 2018
 **Today's Progress**: Reading through this kernel for Santander Kaggle Competition:
 https://www.kaggle.com/tunguz/yaeda-yet-another-eda
+Also, coded step 2: select features by importance using a weak RandomForestRegressor
