@@ -23,3 +23,7 @@ In more detail, we do the following:
 
 ## Day 2 : July 8, 2018
 **Today's Progress**: Santander Kaggle Competition: coded step 1: load train/test data, drop duplicate columns, round features
+
+## Day 3 : July 9, 2018
+**Today's Progress**: Reading through this kernel for Santander Kaggle Competition:
+https://www.kaggle.com/tunguz/yaeda-yet-another-eda
