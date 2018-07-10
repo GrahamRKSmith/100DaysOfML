@@ -28,3 +28,7 @@ In more detail, we do the following:
 **Today's Progress**: Reading through this kernel for Santander Kaggle Competition:
 https://www.kaggle.com/tunguz/yaeda-yet-another-eda
 Also, coded step 2: select features by importance using a weak RandomForestRegressor
+
+## Day 4 : July 9, 2018
+**Today's Progress**:
+Coded step 3: test the training/testing data with Kolmogorov-Smirnov test
