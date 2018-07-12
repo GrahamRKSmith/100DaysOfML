@@ -36,3 +36,7 @@ Coded step 3: test the training/testing data with Kolmogorov-Smirnov test
 ## Day 5: July 10, 2018
 **Today's Progress**:
 Coded step 4: add low-dimensional representations as features
+
+## Day 6: July 11, 2018
+**Today's Progress**:
+Coded step 5: define cross-validation methods and models
