@@ -29,14 +29,18 @@ In more detail, we do the following:
 https://www.kaggle.com/tunguz/yaeda-yet-another-eda
 Also, coded step 2: select features by importance using a weak RandomForestRegressor
 
-## Day 4: July 9, 2018
+## Day 4: July 10, 2018
 **Today's Progress**:
 Coded step 3: test the training/testing data with Kolmogorov-Smirnov test
 
-## Day 5: July 10, 2018
+## Day 5: July 11, 2018
 **Today's Progress**:
 Coded step 4: add low-dimensional representations as features
 
-## Day 6: July 11, 2018
+## Day 6: July 12, 2018
 **Today's Progress**:
 Coded step 5: define cross-validation methods and models
+
+## Day 7: July 13, 2018
+**Today's Progress**:
+Coded step 6: average the two base models
