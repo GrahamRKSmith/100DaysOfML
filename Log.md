@@ -44,3 +44,15 @@ Coded step 5: define cross-validation methods and models
 ## Day 7: July 13, 2018
 **Today's Progress**:
 Coded step 6: average the two base models
+
+## Day 8: July 14, 2018
+**Today's Progress**:
+Went through this kernel: https://www.kaggle.com/scirpus/the-data-contains-the-target
+
+## Day 9: July 15, 2018
+**Today's Progress**:
+Went through this kernel: https://www.kaggle.com/scirpus/qr-decomposition Learning how to handle sparse data
+
+## Day 10: July 16, 2018
+**Today's Progress**:
+Went through this kernel: https://www.kaggle.com/shivamb/dataset-decomposition-techniques, eigenvalues etc
