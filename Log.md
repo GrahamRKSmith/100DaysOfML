@@ -56,3 +56,11 @@ Went through this kernel: https://www.kaggle.com/scirpus/qr-decomposition Learni
 ## Day 10: July 16, 2018
 **Today's Progress**:
 Went through this kernel: https://www.kaggle.com/shivamb/dataset-decomposition-techniques, eigenvalues etc
+
+## Day 11: July 17, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/johnfarrell/giba-s-property-extended-result
+
+## Day 12: July 18, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/titericz/the-property-by-giba
