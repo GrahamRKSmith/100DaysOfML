@@ -64,3 +64,7 @@ Working through this kernel: https://www.kaggle.com/johnfarrell/giba-s-property-
 ## Day 12: July 18, 2018
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/titericz/the-property-by-giba
+
+## Day 13: July 19, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/tezdhar/breaking-lb-fresh-start
