@@ -68,3 +68,7 @@ Working through this kernel: https://www.kaggle.com/titericz/the-property-by-gib
 ## Day 13: July 19, 2018
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/tezdhar/breaking-lb-fresh-start
+
+## Day 14: July 20, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/johnfarrell/breaking-lb-fresh-start-with-lag-selection
