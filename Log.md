@@ -72,3 +72,13 @@ Working through this kernel: https://www.kaggle.com/tezdhar/breaking-lb-fresh-st
 ## Day 14: July 20, 2018
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/johnfarrell/breaking-lb-fresh-start-with-lag-selection
+
+## Day 15: July 21, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/the1owl/love-is-the-answer
+
+## Day 16: July 22, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/bhaveshthaker/svp-exploratory-data-analysis-eda-and-modeling
+
+
