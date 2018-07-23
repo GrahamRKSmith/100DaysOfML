@@ -81,4 +81,8 @@ Working through this kernel: https://www.kaggle.com/the1owl/love-is-the-answer
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/bhaveshthaker/svp-exploratory-data-analysis-eda-and-modeling
 
+## Day 17: July 23, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/ogrellier/feature-scoring-vs-zeros
+
 
