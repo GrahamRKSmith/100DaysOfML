@@ -85,4 +85,8 @@ Working through this kernel: https://www.kaggle.com/bhaveshthaker/svp-explorator
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/ogrellier/feature-scoring-vs-zeros
 
+## Day 18: July 24, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/sudalairajkumar/simple-exploration-baseline-santander-value
+
 
