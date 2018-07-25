@@ -89,4 +89,8 @@ Working through this kernel: https://www.kaggle.com/ogrellier/feature-scoring-vs
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/sudalairajkumar/simple-exploration-baseline-santander-value
 
+## Day 19: July 25, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/ogrellier/feature-scoring-vs-zeros
+
 
