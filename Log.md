@@ -93,4 +93,8 @@ Working through this kernel: https://www.kaggle.com/sudalairajkumar/simple-explo
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/ogrellier/feature-scoring-vs-zeros
 
+## Day 20: July 26, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/ashishpatel26/blending
+
 
