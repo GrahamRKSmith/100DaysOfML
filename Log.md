@@ -99,6 +99,6 @@ Working through this kernel: https://www.kaggle.com/ashishpatel26/blending
 
 ## Day 21: July 27, 2018
 **Today's Progress**:
-Working through this kernel: https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
+Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-fe-lb1-39
 
 
