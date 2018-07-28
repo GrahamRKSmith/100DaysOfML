@@ -101,4 +101,8 @@ Working through this kernel: https://www.kaggle.com/ashishpatel26/blending
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-fe-lb1-39
 
+## Day 22: July 28, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-fe-lb1-39
+
 
