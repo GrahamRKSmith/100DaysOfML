@@ -105,4 +105,8 @@ Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-f
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-fe-lb1-39
 
+## Day 23: July 29, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/zeus75/xgboost-features-scoring-with-ligthgbm-model
+
 
