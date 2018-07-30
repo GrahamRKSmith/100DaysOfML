@@ -109,4 +109,8 @@ Working through this kernel: https://www.kaggle.com/sggpls/pipeline-kernel-xgb-f
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/zeus75/xgboost-features-scoring-with-ligthgbm-model
 
+## Day 24: July 30, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/bminixhofer/a-different-validation-technique
+
 
