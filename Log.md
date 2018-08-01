@@ -113,4 +113,12 @@ Working through this kernel: https://www.kaggle.com/zeus75/xgboost-features-scor
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/bminixhofer/a-different-validation-technique
 
+## Day 25: July 31, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/kenmatsu4/leak-features-are-in-a-dense-part-of-the-data
+
+## Day 26: Aug 1, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/mortido/digging-into-the-data-time-series-theory
+
 
