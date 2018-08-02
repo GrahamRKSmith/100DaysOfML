@@ -121,4 +121,8 @@ Working through this kernel: https://www.kaggle.com/kenmatsu4/leak-features-are-
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/mortido/digging-into-the-data-time-series-theory
 
+## Day 27: Aug 2, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/tanreinama/rules-for-direct-find-target-values
+
 
