@@ -125,4 +125,8 @@ Working through this kernel: https://www.kaggle.com/mortido/digging-into-the-dat
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/tanreinama/rules-for-direct-find-target-values
 
+## Day 28: Aug 3, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/mannyelk/an-honest-approach
+
 
