@@ -129,4 +129,8 @@ Working through this kernel: https://www.kaggle.com/tanreinama/rules-for-direct-
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/mannyelk/an-honest-approach
 
+## Day 29: Aug 4, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/dfrumkin/feature-grouping-with-t-sne
+
 
