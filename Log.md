@@ -133,4 +133,8 @@ Working through this kernel: https://www.kaggle.com/mannyelk/an-honest-approach
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/dfrumkin/feature-grouping-with-t-sne
 
+## Day 30: Aug 5, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/danil328/ligthgbm-with-bayesian-optimization
+
 
