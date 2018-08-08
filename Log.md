@@ -137,4 +137,16 @@ Working through this kernel: https://www.kaggle.com/dfrumkin/feature-grouping-wi
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/danil328/ligthgbm-with-bayesian-optimization
 
+## Day 31: Aug 6, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/dfrumkin/a-simple-way-to-use-giba-s-features-v2
+
+## Day 32: Aug 7, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/johnfarrell/baseline-with-lag-select-fake-rows-dropped
+
+## Day 33: Aug 8, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/asydorchuk/save-98-of-ram
+
 
