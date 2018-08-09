@@ -149,4 +149,8 @@ Working through this kernel: https://www.kaggle.com/johnfarrell/baseline-with-la
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/asydorchuk/save-98-of-ram
 
+## Day 34: Aug 9, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/prashantkikani/ensembling-has-always-been-the-answer
+
 
