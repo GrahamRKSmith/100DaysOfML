@@ -153,4 +153,16 @@ Working through this kernel: https://www.kaggle.com/asydorchuk/save-98-of-ram
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/prashantkikani/ensembling-has-always-been-the-answer
 
+## Day 35: Aug 10, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/raenish/santander-basic-exploration-analysis-in-r
+
+## Day 36: Aug 11, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/abhilashawasthi/fs-lasso-hyperparamtuning-hyperopt
+
+## Day 37: Aug 12, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/leighplt/simple-pytorch-with-kaggle-s-gpu
+
 
