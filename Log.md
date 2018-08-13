@@ -165,4 +165,7 @@ Working through this kernel: https://www.kaggle.com/abhilashawasthi/fs-lasso-hyp
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/leighplt/simple-pytorch-with-kaggle-s-gpu
 
+## Day 38: Aug 13, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/yekenot/baseline-with-decomposition-components
 
