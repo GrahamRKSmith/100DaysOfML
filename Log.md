@@ -169,3 +169,7 @@ Working through this kernel: https://www.kaggle.com/leighplt/simple-pytorch-with
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/yekenot/baseline-with-decomposition-components
 
+## Day 39: Aug 14, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/gurchetan1000/6-new-patterns-extending-jiazhen-0-66-on-train
+
