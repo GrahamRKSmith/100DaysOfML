@@ -173,3 +173,7 @@ Working through this kernel: https://www.kaggle.com/yekenot/baseline-with-decomp
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/gurchetan1000/6-new-patterns-extending-jiazhen-0-66-on-train
 
+## Day 40: Aug 15, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/clair14/we-love-our-clients
+
