@@ -177,3 +177,11 @@ Working through this kernel: https://www.kaggle.com/gurchetan1000/6-new-patterns
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/clair14/we-love-our-clients
 
+## Day 41: Aug 16, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/nulldata/jiazhen-to-armamut-via-gurchetan1000-0-56
+
+## Day 42: Aug 17, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/sibmike/finished-grouping-with-tsne
+
