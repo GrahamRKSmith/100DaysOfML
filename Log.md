@@ -185,3 +185,15 @@ Working through this kernel: https://www.kaggle.com/nulldata/jiazhen-to-armamut-
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/sibmike/finished-grouping-with-tsne
 
+## Day 43: Aug 18, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/leighplt/brute-force-sort-data-by-timeshift
+
+## Day 44: Aug 19, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/khahuras/0-49-publiclb-simple-blend-private-lb-rank-126th
+
+## Day 45: Aug 20, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/yuikitaml/stacking3402
+
