@@ -197,3 +197,7 @@ Working through this kernel: https://www.kaggle.com/khahuras/0-49-publiclb-simpl
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/yuikitaml/stacking3402
 
+## Day 45: Aug 21, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/rsakata/21th-place-solution
+
