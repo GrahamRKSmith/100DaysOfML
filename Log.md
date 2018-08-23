@@ -201,3 +201,13 @@ Working through this kernel: https://www.kaggle.com/yuikitaml/stacking3402
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/rsakata/21th-place-solution
 
+## Day 46: Aug 22, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/lukeeee/bayesian-mean-estimates-lr
+
+## Day 47: Aug 23, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/joeytaj/leak-fe-ml-from-scratch-baseline
+
+
+
