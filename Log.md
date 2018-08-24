@@ -209,5 +209,9 @@ Working through this kernel: https://www.kaggle.com/lukeeee/bayesian-mean-estima
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/joeytaj/leak-fe-ml-from-scratch-baseline
 
+## Day 48: Aug 24, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effect-analyzing-public-lb
+
 
 
