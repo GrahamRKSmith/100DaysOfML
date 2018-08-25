@@ -213,5 +213,9 @@ Working through this kernel: https://www.kaggle.com/joeytaj/leak-fe-ml-from-scra
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effect-analyzing-public-lb
 
+## Day 49: Aug 25, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effect-analyzing-public-lb
+
 
 
