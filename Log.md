@@ -217,5 +217,9 @@ Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effe
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effect-analyzing-public-lb
 
+## Day 50: Aug 26, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/nulldata/jiazhen-to-armamut-via-gurchetan1000-0-56
+
 
 
