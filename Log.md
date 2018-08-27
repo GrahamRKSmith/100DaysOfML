@@ -221,5 +221,9 @@ Working through this kernel: https://www.kaggle.com/safavieh/public-kernels-effe
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/nulldata/jiazhen-to-armamut-via-gurchetan1000-0-56
 
+## Day 50: Aug 27, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/strivingwen/best-ensemble-score-made-available-0-63
+
 
 
