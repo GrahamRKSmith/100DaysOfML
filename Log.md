@@ -225,5 +225,9 @@ Working through this kernel: https://www.kaggle.com/nulldata/jiazhen-to-armamut-
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/strivingwen/best-ensemble-score-made-available-0-63
 
+## Day 51: Aug 28, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/selvakumarjawahar/satanderprediction-using-svm
+
 
 
