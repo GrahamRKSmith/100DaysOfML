@@ -229,5 +229,9 @@ Working through this kernel: https://www.kaggle.com/strivingwen/best-ensemble-sc
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/selvakumarjawahar/satanderprediction-using-svm
 
+## Day 52: Aug 29, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/qwe1398775315/change-msle-to-mape
+
 
 
