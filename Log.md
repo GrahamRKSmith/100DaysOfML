@@ -233,5 +233,8 @@ Working through this kernel: https://www.kaggle.com/selvakumarjawahar/satanderpr
 **Today's Progress**:
 Working through this kernel: https://www.kaggle.com/qwe1398775315/change-msle-to-mape
 
+## Day 53: Aug 30, 2018
+**Today's Progress**:
+Working through this kernel: https://www.kaggle.com/yaqidodo/blending-1-37-0-56-0-49
 
 
